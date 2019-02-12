@@ -1,2 +1,2 @@
-$ cat .gitattributes 
-*.html linguist-vendored=false
+* linguist-vendored
+*.php linguist-vendored=false
